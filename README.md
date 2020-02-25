@@ -1,7 +1,7 @@
 # Projetc Repository Git
-    Esse Projeto foi desenvolvido no Gostack 10 e consiste em aprender a desenvolver aplicações utilizando a tecnologia ReactJS
-    o projeto consiste em uma aplicação que adiciona repositórios do git e através da api do mesmo retorna algumas informações 
-    relevantes.
+    Esse Projeto foi desenvolvido no Gostack 10 e consiste em aprender a desenvolver aplicações 
+    utilizando a tecnologia ReactJS o projeto consiste em uma aplicação que adiciona repositórios 
+    do git e através da api do mesmo retorna algumas informações relevantes.
 
 ## Requisitos
 
